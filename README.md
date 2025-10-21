@@ -14,8 +14,8 @@ In this lab you have learned about multiplexers and demultiplexers.
 ## Lab Questions
 
 ### In plain English describe the function and use of a multiplexer.
-
+A multiplexer takes multiple inputs and selects one of them using switches/buttons.
 ### In plain English describe the function and use of a demultiplexer.
-
+A demultiplexer takes one input (can be the output of the multiplexer) and generates multiple outputs.
 ### What other uses might these circuits have? (Think Shannon’s)
-
+We can use Shannon's method to find the minterm of a function. In this form, we can apply a multiplexer or multiple. 
